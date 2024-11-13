@@ -1,0 +1,21 @@
+/* src/components/Header/Header.css */
+.header {
+  background-color: #333;
+  padding: 10px;
+  color: white;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-link {
+  margin-right: 20px;
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-link:hover {
+  text-decoration: underline;
+}

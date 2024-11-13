@@ -1,0 +1,45 @@
+﻿@model IEnumerable<PCRentalMGR.Models.Device>
+
+@{
+    ViewData["Title"] = "機器一覧";
+}
+
+<h1>機器一覧</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">新しい機器を追加</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>資産番号</th>
+            <th>メーカー</th>
+            <th>機種</th>
+            <th>OS</th>
+            <th>メモリ</th>
+            <th>容量</th>
+            <th>登録日</th>
+            <th>操作</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Asset_no</td>
+                <td>@item.Maker</td>
+                <td>@item.Model</td>
+                <td>@item.Os</td>
+                <td>@item.Memory</td>
+                <td>@item.Capacity</td>
+                <td>@item.register_date.ToString("yyyy-MM-dd")</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning">編集</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">詳細</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">削除</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

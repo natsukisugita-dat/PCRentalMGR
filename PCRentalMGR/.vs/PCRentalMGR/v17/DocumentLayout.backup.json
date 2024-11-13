@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tokyo-study032\\Downloads\\PCRentalMGR\\PCRentalMGR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B95E2D6F-8D7A-4A22-94C2-4DB64E2B7A4B}|PCRentalMGR\\PCRentalMGR.csproj|c:\\users\\tokyo-study032\\downloads\\pcrentalmgr\\pcrentalmgr\\pcrentalmgr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95E2D6F-8D7A-4A22-94C2-4DB64E2B7A4B}|PCRentalMGR\\PCRentalMGR.csproj|solutionrelative:pcrentalmgr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95E2D6F-8D7A-4A22-94C2-4DB64E2B7A4B}|PCRentalMGR\\PCRentalMGR.csproj|c:\\users\\tokyo-study032\\downloads\\pcrentalmgr\\pcrentalmgr\\pcrentalmgr\\controllers\\rentalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95E2D6F-8D7A-4A22-94C2-4DB64E2B7A4B}|PCRentalMGR\\PCRentalMGR.csproj|solutionrelative:pcrentalmgr\\controllers\\rentalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95E2D6F-8D7A-4A22-94C2-4DB64E2B7A4B}|PCRentalMGR\\PCRentalMGR.csproj|c:\\users\\tokyo-study032\\downloads\\pcrentalmgr\\pcrentalmgr\\pcrentalmgr\\controllers\\devicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95E2D6F-8D7A-4A22-94C2-4DB64E2B7A4B}|PCRentalMGR\\PCRentalMGR.csproj|solutionrelative:pcrentalmgr\\controllers\\devicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95E2D6F-8D7A-4A22-94C2-4DB64E2B7A4B}|PCRentalMGR\\PCRentalMGR.csproj|c:\\users\\tokyo-study032\\downloads\\pcrentalmgr\\pcrentalmgr\\pcrentalmgr\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95E2D6F-8D7A-4A22-94C2-4DB64E2B7A4B}|PCRentalMGR\\PCRentalMGR.csproj|solutionrelative:pcrentalmgr\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95E2D6F-8D7A-4A22-94C2-4DB64E2B7A4B}|PCRentalMGR\\PCRentalMGR.csproj|c:\\users\\tokyo-study032\\downloads\\pcrentalmgr\\pcrentalmgr\\pcrentalmgr\\models\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95E2D6F-8D7A-4A22-94C2-4DB64E2B7A4B}|PCRentalMGR\\PCRentalMGR.csproj|solutionrelative:pcrentalmgr\\models\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tokyo-study032\\Downloads\\PCRentalMGR\\PCRentalMGR\\PCRentalMGR\\Program.cs",
+              "RelativeDocumentMoniker": "PCRentalMGR\\Program.cs",
+              "ToolTip": "C:\\Users\\tokyo-study032\\Downloads\\PCRentalMGR\\PCRentalMGR\\PCRentalMGR\\Program.cs",
+              "RelativeToolTip": "PCRentalMGR\\Program.cs",
+              "ViewState": "AgIAAAwAAADAzMzMzMwgwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:48:53.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DevicesController.cs",
+              "DocumentMoniker": "C:\\Users\\tokyo-study032\\Downloads\\PCRentalMGR\\PCRentalMGR\\PCRentalMGR\\Controllers\\DevicesController.cs",
+              "RelativeDocumentMoniker": "PCRentalMGR\\Controllers\\DevicesController.cs",
+              "ToolTip": "C:\\Users\\tokyo-study032\\Downloads\\PCRentalMGR\\PCRentalMGR\\PCRentalMGR\\Controllers\\DevicesController.cs",
+              "RelativeToolTip": "PCRentalMGR\\Controllers\\DevicesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:28:02.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentalsController.cs",
+              "DocumentMoniker": "C:\\Users\\tokyo-study032\\Downloads\\PCRentalMGR\\PCRentalMGR\\PCRentalMGR\\Controllers\\RentalsController.cs",
+              "RelativeDocumentMoniker": "PCRentalMGR\\Controllers\\RentalsController.cs",
+              "ToolTip": "C:\\Users\\tokyo-study032\\Downloads\\PCRentalMGR\\PCRentalMGR\\PCRentalMGR\\Controllers\\RentalsController.cs",
+              "RelativeToolTip": "PCRentalMGR\\Controllers\\RentalsController.cs",
+              "ViewState": "AgIAAGwAAACQmZmZmZklwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:28:01.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\tokyo-study032\\Downloads\\PCRentalMGR\\PCRentalMGR\\PCRentalMGR\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "PCRentalMGR\\Models\\Device.cs",
+              "ToolTip": "C:\\Users\\tokyo-study032\\Downloads\\PCRentalMGR\\PCRentalMGR\\PCRentalMGR\\Models\\Device.cs",
+              "RelativeToolTip": "PCRentalMGR\\Models\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:27:58.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "C:\\Users\\tokyo-study032\\Downloads\\PCRentalMGR\\PCRentalMGR\\PCRentalMGR\\Models\\Rental.cs",
+              "RelativeDocumentMoniker": "PCRentalMGR\\Models\\Rental.cs",
+              "ToolTip": "C:\\Users\\tokyo-study032\\Downloads\\PCRentalMGR\\PCRentalMGR\\PCRentalMGR\\Models\\Rental.cs",
+              "RelativeToolTip": "PCRentalMGR\\Models\\Rental.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:27:57.881Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

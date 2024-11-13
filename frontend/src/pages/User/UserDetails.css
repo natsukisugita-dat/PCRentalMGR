@@ -1,0 +1,49 @@
+.user-details-container {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.user-details-container h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.user-details-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.user-details-table th, .user-details-table td {
+  padding: 12px;
+  text-align: left;
+  border: 1px solid #ddd;
+}
+
+.user-details-table th {
+  background-color: #f4f4f4;
+  width: 30%;
+}
+
+.user-details-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.user-details-table tr:hover {
+  background-color: #f1f1f1;
+}
+
+.btn {
+  padding: 10px 15px;
+  margin-top: 20px;
+  text-decoration: none;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}

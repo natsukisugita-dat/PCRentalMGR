@@ -1,0 +1,80 @@
+﻿@model PCRentalMGR.Models.Device
+
+@{
+    ViewData["Title"] = "機器情報編集";
+}
+
+<h1>機器情報編集</h1>
+
+<form asp-action="Edit">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="form-group">
+        <label asp-for="Asset_no" class="control-label"></label>
+        <input asp-for="Asset_no" class="form-control" />
+        <span asp-validation-for="Asset_no" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Maker" class="control-label"></label>
+        <input asp-for="Maker" class="form-control" />
+        <span asp-validation-for="Maker" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Model" class="control-label"></label>
+        <input asp-for="Model" class="form-control" />
+        <span asp-validation-for="Model" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Os" class="control-label"></label>
+        <input asp-for="Os" class="form-control" />
+        <span asp-validation-for="Os" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Memory" class="control-label"></label>
+        <input asp-for="Memory" class="form-control" />
+        <span asp-validation-for="Memory" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Capacity" class="control-label"></label>
+        <input asp-for="Capacity" class="form-control" />
+        <span asp-validation-for="Capacity" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Store" class="control-label"></label>
+        <input asp-for="Store" class="form-control" />
+        <span asp-validation-for="Store" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="start" class="control-label"></label>
+        <input asp-for="start" class="form-control" type="date" />
+        <span asp-validation-for="start" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="limit" class="control-label"></label>
+        <input asp-for="limit" class="form-control" type="date" />
+        <span asp-validation-for="limit" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Failure" class="control-label"></label>
+        <input asp-for="Failure" class="form-control" />
+        <span asp-validation-for="Failure" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="remaker" class="control-label"></label>
+        <input asp-for="remaker" class="form-control" />
+        <span asp-validation-for="remaker" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">保存</button>
+    <a asp-action="Index" class="btn btn-secondary">戻る</a>
+</form>
